@@ -1,0 +1,192 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/media/roman/Disc/www/domains/bystrokabel/_files/data.txt",
+		"/media/roman/Disc/www/domains/erp/_files/доступы броско.txt",
+		"/home/roman/domains/api.leopold-zoomarket.ru/docker-compose.yml",
+		"/home/roman/Downloads/Telegram Desktop/Apple.php",
+		"/home/roman/Downloads/Telegram Desktop/BaseController.php",
+		"/home/roman/Downloads/Telegram Desktop/AppleRepository.php",
+		"/home/roman/Downloads/Telegram Desktop/StoreInterface.php",
+		"/home/roman/Downloads/Telegram Desktop/AppleAR.php",
+		"/home/roman/PhpstormProjects/yii2-apple/backend/config/main-local.php",
+		"/home/roman/PhpstormProjects/yii2-apple/backend/config/main.php",
+		"/home/roman/domains/api.likestats.io/README.md",
+		"/home/roman/PhpstormProjects/yii2-apple/common/config/main-local.php",
+		"/home/roman/PhpstormProjects/yii2-apple/common/config/main.php",
+		"/home/roman/domains/api.likestats.io/config/db.php.back",
+		"/home/roman/domains/api.likestats.io/config/web.php",
+		"/media/roman/Disc/www/domains/attornium/_files/data.txt",
+		"/home/roman/.npm/_logs/2022-03-16T16_10_13_989Z-debug-0.log",
+		"/home/roman/.npm/_logs/2022-03-16T15_41_22_457Z-debug-0.log",
+		"/home/roman/PhpstormProjects/test-app/package.json",
+		"/home/roman/.bashsrc",
+		"/home/roman/domains/api.leopold-zoomarket.ru/mysql/lemarbreru_leopo.sql",
+		"/media/roman/Disc/www/domains/oren-znak/config/db.php",
+		"/media/roman/Disc/www/domains/attornium/yii2-attornium/config/db.php",
+		"/home/roman/.ssh/id_rsa.pub",
+		"/home/roman/Soft/inteljidea/ideaIU-2021.3.2/idea-IU-213.6777.52/Install-Linux-tar.txt",
+		"/usr/share/applications/utorrent.desktop"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "AppAsset.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 220.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

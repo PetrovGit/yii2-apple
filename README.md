@@ -58,3 +58,18 @@ frontend
 vendor/                  contains dependent 3rd-party packages
 environments/            contains environment-based overrides
 ```
+
+Структура базы данных
+-------------------
+
+```
+-apple
+    title:string(100):comment('Наименование')
+    create_at:integer:comment('Дата появления')
+    update_at:integer:comment('Дата обновления')
+    fall_at:integer:comment('Дата падения')
+    color:string(100):notNull:comment('Цвет')
+    size:tinyInteger(3):notNull:comment('Размер')
+    status:tinyInteger(1):notNull:comment('Статус')
+
+```
